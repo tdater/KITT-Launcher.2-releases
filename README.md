@@ -5,7 +5,8 @@ units (1024x600, 1280x720, 1280x800 and similar): OBD-II car scanner, an AI co-p
 your live vehicle data, map search with spoken directions, a browser for streaming and AI chat,
 and the always-on red scanner light. A lighter Lite mode keeps it quick on budget head units.
 
-It installs alongside the original [KITT Launcher](https://github.com/tdater/KITT-Launcher-releases).
+It installs alongside the original [KITT Launcher](https://github.com/tdater/KITT-Launcher-releases), which is laid out
+for big portrait screens. **[See everything it does, and which edition to pick](https://tdater.github.io/KITT-Launcher-releases/#editions)**.
 
 ## Download
 
